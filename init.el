@@ -20,6 +20,8 @@
 ;; You should have received a copy of the GNU General Public License
 ;; along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
+;; https://superuser.com/questions/50095/how-can-i-run-mac-osx-graphical-emacs-in-daemon-mode
+(setq ns-pop-up-frames nil)
 
 ;; Without this comment emacs25 adds (package-initialize) here
 ;; (package-initialize)
